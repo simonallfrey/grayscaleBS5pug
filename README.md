@@ -1,3 +1,13 @@
+# Bootstrap 5 SCSS and pug
+
+These are my modifications to the latest (October 2022) iteration of StartBootstrap's Grayscale template.
+
+I modified the pug compile to {require: require} allowing e.g. _ = require('lodash')
+
+https://www.sitepoint.com/a-beginners-guide-to-pug/
+
+I've cleaned and added the tutorial recommended at https://github.com/pugjs/pug#tutorials
+
 # [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
 
 [Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
@@ -32,7 +42,7 @@ After downloading, simply edit the HTML and CSS files included with `dist` direc
 
 ### Advanced Usage
 
-Clone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
+lone the source files of the theme and navigate into the theme's root directory. Run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `package.json` file to see which scripts are included.
 
 #### npm Scripts
 
