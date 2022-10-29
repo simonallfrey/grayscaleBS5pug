@@ -8,7 +8,7 @@ npm install
 npm start
 ```
 
-now start editing the srx/pug/*.pug files and watch the evolution in the browser
+now start editing the src/pug/*.pug files and watch the evolution in the browser
 
 n.b. if you introduce errors in your pug, fix and rerun npm start
 
