@@ -1,5 +1,13 @@
 # Bootstrap 5 SCSS and pug
 
+tl;dr: 
+```bash
+git clone 
+cd 
+
+```
+
+
 These are my modifications to the latest (October 2022) iteration of StartBootstrap's Grayscale template.
 
 I modified the pug compile to {require: require} allowing e.g. _ = require('lodash')
