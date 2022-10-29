@@ -2,11 +2,15 @@
 
 tl;dr: 
 ```bash
-git clone 
-cd 
-
+git clone https://github.com/simonallfrey/grayscaleBS5pug.git
+cd grayscaleBS5pug
+npm install
+npm start
 ```
 
+now start editing the srx/pug/*.pug files and watch the evolution in the browser
+
+n.b. if you introduce errors in your pug, fix and rerun npm start
 
 These are my modifications to the latest (October 2022) iteration of StartBootstrap's Grayscale template.
 
